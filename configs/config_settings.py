@@ -23,8 +23,6 @@ class ConfigsSettings(BaseSettings):
 
     LINKEDIN_USER: str
     LINKEDIN_PASS: str
-    CRUNCHBASE_USER: str
-    CRUNCHBASE_PASS: str
 
     JWT_SECRET_KEY: str
     JWT_ALGORITHM: str
